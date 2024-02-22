@@ -1,0 +1,27 @@
+body{
+    margin: 50px;
+    padding: 50px;
+    background-color: lightcoral;
+}
+
+.container-titulo {
+    background-color: pink;
+    padding: 20px;
+    text-align: center;
+}
+.texto-centrado {
+    text-align: center;
+}
+.texto-justificado {
+    text-align: justify;
+}
+
+.flex-container {
+    display: flex;
+}
+.flex-container > section {
+    margin: 10px;
+    padding: 20px;
+    
+}
+  
